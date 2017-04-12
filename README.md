@@ -1,5 +1,6 @@
 # TerminalConfig
 My Mac Terminal config.
+![Screenshot](https://github.com/paraself/TerminalConfig/blob/master/s.png)
 ### Features
 - Colors for different commands.
 - Seperator between each command.
